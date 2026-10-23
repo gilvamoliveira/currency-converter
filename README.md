@@ -25,3 +25,7 @@ Gson (para conversão de JSON)
 API ExchangeRate
 
 IntelliJ IDEA
+
+---
+
+Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
