@@ -88,4 +88,4 @@ Distribuído sob a licença MIT. Consulte [LICENSE](LICENSE).
 
 ---
 
-Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
+Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/)
